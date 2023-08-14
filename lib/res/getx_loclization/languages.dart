@@ -13,6 +13,7 @@ class Languages extends Translations {
       'welcome_back' : 'Welcome\nBack' ,
       'login' :'Login' ,
       'password_hint' :'Password' ,
+      'register' :'Register' ,
     },
     'ur_PK' : {
       'email_hint' : 'asدسسدفاسف'
